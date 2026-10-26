@@ -28,8 +28,6 @@ Este proyecto implementa una simulación computacional del clásico juego de dad
 ## 📂 Estructura del Repositorio
 - [`Grupo3_Montecarlo.ipynb`](./Grupo3_Montecarlo.ipynb): Cuaderno interactivo de Google Colab / Jupyter con el fundamento teórico, código fuente, gráficas estadísticas de Montecarlo y partida interactiva.
 - [`yahtzee_montecarlo.py`](./yahtzee_montecarlo.py): Script en Python del simulador y juego para 2 jugadores.
-- [`Guion_Video_Presentacion.md`](./Guion_Video_Presentacion.md): Guion estructurado para la presentación en video (David y Santiago).
-- [`Morales_Henao_Santiago_Grupo3_Montecarlo.docx`](./Morales_Henao_Santiago_Grupo3_Montecarlo.docx): Informe académico completo de la actividad.
 
 ---
 
